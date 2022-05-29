@@ -31,6 +31,13 @@ body {
     color: goldenrod;
 }
 
+footer {
+justify-content: space-between;
+display: flex;
+margin-top: 20px;
+}
+
+
 
 
 
