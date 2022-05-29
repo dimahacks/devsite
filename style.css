@@ -35,6 +35,10 @@ display: flex;
 margin-top: 20px;
 }
 
+.a {
+    justify-content: center;
+}
+
 
 
 
